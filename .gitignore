@@ -1,0 +1,5 @@
+# ignore ALL files in ANY directory named temp
+.ipynb_checkpoints
+*.xlsx
+*.png
+*.pptx
